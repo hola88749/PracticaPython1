@@ -1,6 +1,6 @@
 # PracticaPython1
 
-**Autor:** Tu Nombre Aquí
+**Autor:** Ernesto Raul Cruz Rosas
 
 ## Descripción
 Este programa permite ingresar datos de estudiantes, calcular promedios, identificar al estudiante con mejor promedio y guardar los resultados en un archivo.
