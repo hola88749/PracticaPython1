@@ -16,7 +16,7 @@ Este programa permite ingresar datos de estudiantes, calcular promedios, identif
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/TU_USUARIO/PracticaPython1.git
+git clone https://github.com/hola88749/PracticaPython1.git
 cd PracticaPython1
 
 # Crea y activa el entorno virtual
